@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   ✉️ abthanga@gmail.com
   🎨 Portfolio: https://thangaduraiarumugam.github.io
   💼 LinkedIn: https://www.linkedin.com/in/thangaduraiarumugam/
-  ⚡ I love to innovate and if someone says it wont work and i wiill try it differently to make it work
+  ⚡ I love to innovate and if someone says it wont work and my will makes me curious to try it differently to make it work
   </samp>
 </p>
 
