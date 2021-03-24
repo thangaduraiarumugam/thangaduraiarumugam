@@ -14,12 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/thangaduraiarumugam/thangaduraiarumugam/main/github-banner.png"/>
+ <hr></hr>
+<p align="center">
+  <samp>
+   Hi, I'm Thangadurai! 👋 <br/>
+  🔥 34 Year's Old Software Developer grinding hard to make something cool
+  ✨ Favorite Tech: Java, C#,JavaScript, React, Angular, Azure, AWS
+  📓 I’m currently learning AWS... 😄
+  ✉️ abthanga@gmail.com
+  🎨 Portfolio: https://thangaduraiarumugam.github.io
+  💼 LinkedIn: https://www.linkedin.com/in/thangaduraiarumugam/
+  ⚡ I love to innovate and if someone says it wont work and i wiill try it differently to make it work
+  </samp>
+</p>
 
-Hi, I'm Thangadurai! 👋
-🔥 34 Year's Old Software Developer grinding hard to make something cool
-✨ Favorite Tech: Java, C#,JavaScript, React, Angular, Azure, AWS
-📓 I’m currently learning AWS... 😄
-✉️ abthanga@gmail.com
-🎨 Portfolio: https://thangaduraiarumugam.github.io
-💼 LinkedIn: https://www.linkedin.com/in/thangaduraiarumugam/
-⚡ I love to innovate and if someone says it wont work and i wiill try it differently to make it work
+
